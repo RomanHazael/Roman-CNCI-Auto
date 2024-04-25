@@ -1,0 +1,10 @@
+# Excluir todos los archivos .csv
+*.csv
+*.xlsx
+
+# Excluir todos los archivos en una carpeta específica
+Data/*
+img/*
+
+# Excluir archivos específicos
+# dataframes/pesados/data_frame_grande.csv
