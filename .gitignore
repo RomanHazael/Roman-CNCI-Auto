@@ -5,6 +5,6 @@
 # Excluir todos los archivos en una carpeta específica
 Data/*
 img/*
-
+infodata/*
 # Excluir archivos específicos
 # dataframes/pesados/data_frame_grande.csv
