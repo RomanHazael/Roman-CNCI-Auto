@@ -6,5 +6,6 @@
 Data/*
 img/*
 infodata/*
+Vault/*
 # Excluir archivos específicos
 # dataframes/pesados/data_frame_grande.csv
