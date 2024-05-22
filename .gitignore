@@ -1,7 +1,7 @@
 # Excluir todos los archivos .csv
 *.csv
 *.xlsx
-
+*.txt
 # Excluir todos los archivos en una carpeta específica
 Data/*
 img/*
