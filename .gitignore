@@ -2,10 +2,13 @@
 *.csv
 *.xlsx
 *.txt
+*.png
+*.jpeg
 # Excluir todos los archivos en una carpeta específica
 Data/*
-img/*
-infodata/*
+Img/*
+Infodata/*
 Vault/*
+Features/*
 # Excluir archivos específicos
 # dataframes/pesados/data_frame_grande.csv
